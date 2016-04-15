@@ -38,7 +38,7 @@ expect(validate('2', props).$invalid).toBeFalsy();
 
 ## Supports
 
-```
+```javascript
 const props = {
   required: true,
   
